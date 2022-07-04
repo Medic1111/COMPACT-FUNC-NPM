@@ -1,5 +1,9 @@
 # FUNCTION-FACILITATOR
 
+![npm page for the project](npm.png)
+
+[Check it out on NPM website](https://www.npmjs.com/package/compact-func)
+
 ## METHODS:
 
 1. Filter
